@@ -39,6 +39,8 @@ header h1 {
 .main-content {
     padding: 13em;
     position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
